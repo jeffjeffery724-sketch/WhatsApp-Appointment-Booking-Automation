@@ -8,18 +8,18 @@ The system listens for incoming WhatsApp messages, processes user requests using
 
 ## ⚙️ How It Works
 Incoming Message (WhatsApp Trigger)
-A user sends a message via WhatsApp to request an appointment.
+A user sends a message via WhatsApp to request an appointment.  
 AI Agent Processing
-The AI agent:
+The AI agent:  
 Interprets user intent (e.g., booking, rescheduling, canceling)
 Uses conversation memory to maintain context
 Determines the appropriate action
-Tool Integration (Calendar)
+Tool Integration (Calendar)  
 The agent connects to a calendar service to:
 Check availability
 Create or update events
 Avoid scheduling conflicts
-Response via WhatsApp
+Response via WhatsApp  
 A confirmation or follow-up message is automatically sent back to the user.
 ## 🧠 Key Features
 Natural language understanding for flexible conversations
